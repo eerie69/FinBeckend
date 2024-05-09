@@ -1,5 +1,5 @@
 # Пет проект Backend финансового приложения на ASP.NET Core Web API .NET 8 
-![pres](**Image\image-01.png**)
+![pres](image-01.png)
 
 ### Регистрация
 ![](Image\image-02.png)
